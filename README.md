@@ -3,6 +3,7 @@ This repository supplements our paper “DisTI: Multivariate Time Series Anomaly
 
 ## How to run 
 Train models on relevant datasets
+
 ```python main.py``` 
 
 ## Acknowledgments
